@@ -1,18 +1,18 @@
-# [微信Android历史版本](https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_faq_list)
+# 微信 Android 历史版本目录
 
-微信Android 历史版本
+本仓库收录微信 Android 历史版本的官网 APK 地址，并为每个版本提供独立目录页，方便按版本号查找。安装旧版本前，请自行确认设备兼容性、数据备份和安全风险。
 
-微信安卓版官方下载地址, 所有下载链接均来自官网
+## 数据来源与边界
 
-各版本更新日志可参见官网 [changelog](https://weixin.qq.com/updates)
+- 下载安装链接和更新信息以[微信官网更新页](https://weixin.qq.com/updates)及其官方 APK 域名为准。
+- 初始历史记录参考了 [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) 作为资料线索，并逐条保留官网链接。
+- 本仓库的抓取、目录生成、校验和 GitHub Actions 自动更新实现均为独立编写，不隶属于腾讯或上述参考项目。
 
-相关项目
+## 自动更新
 
-[微信Windows 历史版本](https://github.com/tom-snow/wechat-windows-versions)
+工作流会定时读取微信官网的 Android 更新信息；仅当版本号、日期和下载地址均通过校验后，才更新本仓库的目录数据与版本页。默认只更新元数据，不自动发布 APK Release。
 
-[微信Mac 历史版本](https://github.com/zsbai/wechat-versions)
-
-## Android平台
+## 下载记录
 
 | 软件版本  | 发布日期  | 下载地址  |
 |  :----  | :----  | :----  |
