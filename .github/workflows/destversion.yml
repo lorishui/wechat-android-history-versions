@@ -1,0 +1,41 @@
+name: Wechat Android Dest Version
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      publish_release:
+        description: '下载并发布 APK Release（默认关闭）'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wechat-android-version-update
+  cancel-in-progress: false
+
+jobs:
+  check_wechat_android_new_version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '20.x'
+      - name: Validate version data
+        run: node scripts/validate.js
+      - name: Check new version and push
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PUBLISH_RELEASE: ${{ github.event.inputs.publish_release || 'false' }}
+        run: bash scripts/updateVersion.sh
+      - name: Validate version data after update
+        run: |
+          node scripts/generate-version-pages.js
+          node scripts/validate.js
