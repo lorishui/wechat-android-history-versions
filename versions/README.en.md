@@ -4,8 +4,9 @@
 
 This directory organizes official WeChat Android APK download records by version. Each page includes the version number, release date, and every recorded official APK link.
 
-133 versions are available.
+134 versions are available.
 
+- [WeChat 8.0.79 for Android: Historical Download](8.0.79/README.en.md) (2026-09-30; 1 official APK file)
 - [WeChat 8.0.78 for Android: Historical Download](8.0.78/README.en.md) (2026-09-09; 2 official APK files)
 - [WeChat 8.0.77 for Android: Historical Download](8.0.77/README.en.md) (2026-08-21; 2 official APK files)
 - [WeChat 8.0.76 for Android: Historical Download](8.0.76/README.en.md) (2026-07-08; 2 official APK files)

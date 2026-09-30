@@ -18,6 +18,7 @@
 
 | 软件版本  | 发布日期  | 下载地址  |
 |  :----  | :----  | :----  |
+| 微信 8.0.79 for Android  | (2026-09-30) | [https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk) |
 | 微信 8.0.78 for Android  | (2026-09-09) | [https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e32_arm64.apk](https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e32_arm64.apk) |
 | 微信 8.0.78 for Android  | (2026-09-09) | [https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e30_arm64.apk](https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e30_arm64.apk) |
 | 微信 8.0.77 for Android  | (2026-08-21) | [https://dldir1v6.qq.com/weixin/android/weixin8077android3160_0x28004d30_arm64_1.apk](https://dldir1v6.qq.com/weixin/android/weixin8077android3160_0x28004d30_arm64_1.apk) |
@@ -196,6 +197,7 @@
 
 以下页面按单一版本号整理，包含对应的官方 APK 下载链接，便于查找特定版本。
 
+- [微信 8.0.79 Android 历史版本下载](versions/8.0.79/)（2026-09-30）
 - [微信 8.0.78 Android 历史版本下载](versions/8.0.78/)（2026-09-09）
 - [微信 8.0.77 Android 历史版本下载](versions/8.0.77/)（2026-08-21）
 - [微信 8.0.76 Android 历史版本下载](versions/8.0.76/)（2026-07-08）
