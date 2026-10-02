@@ -40,7 +40,14 @@ main() {
     version="$(node scripts/getVersion.js)"
     node scripts/generate-version-pages.js
 
-    if git diff --quiet -- README.md README.en.md version.json versions; then exit 0; fi
+    if git diff --quiet -- README.md README.en.md version.json versions; then
+        if [[ "${PUBLISH_RELEASE:-false}" == true ]]; then
+            node scripts/validate.js
+            version="$(node -e "process.stdout.write(require('./version.json')[0].version)")"
+            release_apk "$version"
+        fi
+        exit 0
+    fi
     [[ "$version" =~ ^[0-9]+(\.[0-9]+)+$ ]] || { echo '检测到未关联版本号的目录变更，停止提交。' >&2; exit 1; }
     node scripts/validate.js
     if [[ "${PUBLISH_RELEASE:-false}" == true ]]; then release_apk "$version"; fi
