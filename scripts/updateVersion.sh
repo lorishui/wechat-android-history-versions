@@ -40,11 +40,11 @@ main() {
     version="$(node scripts/getVersion.js)"
     node scripts/generate-version-pages.js
 
-    if git diff --quiet -- README.md version.json versions; then exit 0; fi
+    if git diff --quiet -- README.md README.en.md version.json versions; then exit 0; fi
     [[ "$version" =~ ^[0-9]+(\.[0-9]+)+$ ]] || { echo '检测到未关联版本号的目录变更，停止提交。' >&2; exit 1; }
     node scripts/validate.js
     if [[ "${PUBLISH_RELEASE:-false}" == true ]]; then release_apk "$version"; fi
-    git add README.md version.json versions
+    git add README.md README.en.md version.json versions
     git commit -m "feat(data): add WeChat Android $version"
     git push origin HEAD:main
 }
