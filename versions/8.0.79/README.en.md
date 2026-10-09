@@ -6,14 +6,15 @@ This page lists official APK download links for the WeChat 8.0.79 Android releas
 
 ## Official download links
 
-1. [Download WeChat 8.0.79 Android APK (official link)](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk)
+1. [Download WeChat 8.0.79 Android APK (official link)](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64_1.apk)
+2. [Download WeChat 8.0.79 Android APK (official link)](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk)
 
 ## Version details
 
 - Product: WeChat for Android
 - Version: 8.0.79
 - Release date: 2026-09-30
-- Official APK files recorded: 1
+- Official APK files recorded: 2
 
 ## Safety note
 

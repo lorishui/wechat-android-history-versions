@@ -18,6 +18,7 @@ The workflow periodically reads official WeChat Android update information. It u
 
 | Version | Release date | Download |
 | :---- | :---- | :---- |
+| WeChat 8.0.79 for Android | 2026-09-30 | [Official APK](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64_1.apk) |
 | WeChat 8.0.79 for Android | 2026-09-30 | [Official APK](https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk) |
 | WeChat 8.0.78 for Android | 2026-09-09 | [Official APK](https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e32_arm64.apk) |
 | WeChat 8.0.78 for Android | 2026-09-09 | [Official APK](https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e30_arm64.apk) |
