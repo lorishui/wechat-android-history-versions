@@ -6,8 +6,8 @@
 
 ## 微信 8.0.45 下载地址
 
-1. [下载微信 8.0.45 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8045android2521_0x28002d34_arm64_1.apk)
-2. [下载微信 8.0.45 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8045android2520_0x28002d33_arm64.apk)
+1. [下载微信 8.0.45 Android APK（官方链接，包标识：2521_0x28002d34_arm64_1）](https://dldir1.qq.com/weixin/android/weixin8045android2521_0x28002d34_arm64_1.apk)
+2. [下载微信 8.0.45 Android APK（官方链接，包标识：2520_0x28002d33_arm64）](https://dldir1.qq.com/weixin/android/weixin8045android2520_0x28002d33_arm64.apk)
 
 ## 版本信息
 

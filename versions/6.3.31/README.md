@@ -6,7 +6,7 @@
 
 ## 微信 6.3.31 下载地址
 
-1. [下载微信 6.3.31 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin6331android940.apk)
+1. [下载微信 6.3.31 Android APK（官方链接，包标识：940）](https://dldir1.qq.com/weixin/android/weixin6331android940.apk)
 
 ## 版本信息
 

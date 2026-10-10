@@ -6,7 +6,7 @@
 
 ## 微信 6.5.6 下载地址
 
-1. [下载微信 6.5.6 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin656android1020.apk)
+1. [下载微信 6.5.6 Android APK（官方链接，包标识：1020）](https://dldir1.qq.com/weixin/android/weixin656android1020.apk)
 
 ## 版本信息
 

@@ -6,7 +6,7 @@
 
 ## 微信 6.2 下载地址
 
-1. [下载微信 6.2 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin620android560.apk)
+1. [下载微信 6.2 Android APK（官方链接，包标识：560）](https://dldir1.qq.com/weixin/android/weixin620android560.apk)
 
 ## 版本信息
 

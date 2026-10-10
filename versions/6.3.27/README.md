@@ -6,7 +6,7 @@
 
 ## 微信 6.3.27 下载地址
 
-1. [下载微信 6.3.27 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin6327android880.apk)
+1. [下载微信 6.3.27 Android APK（官方链接，包标识：880）](https://dldir1.qq.com/weixin/android/weixin6327android880.apk)
 
 ## 版本信息
 

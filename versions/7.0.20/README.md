@@ -6,7 +6,7 @@
 
 ## 微信 7.0.20 下载地址
 
-1. [下载微信 7.0.20 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin7020android1780.apk)
+1. [下载微信 7.0.20 Android APK（官方链接，包标识：1780）](https://dldir1.qq.com/weixin/android/weixin7020android1780.apk)
 
 ## 版本信息
 

@@ -6,7 +6,7 @@
 
 ## 微信 6.3.18 下载地址
 
-1. [下载微信 6.3.18 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin6318android800.apk)
+1. [下载微信 6.3.18 Android APK（官方链接，包标识：800）](https://dldir1.qq.com/weixin/android/weixin6318android800.apk)
 
 ## 版本信息
 

@@ -6,7 +6,7 @@ This page lists official APK download links for the WeChat 8.0.46 Android releas
 
 ## Official download links
 
-1. [Download WeChat 8.0.46 Android APK (official link)](https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e34_arm64.apk)
+1. [Download WeChat 8.0.46 Android APK (official link, package ID: 2540_0x28002e34_arm64)](https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e34_arm64.apk)
 
 ## Version details
 

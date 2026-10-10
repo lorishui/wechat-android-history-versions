@@ -6,7 +6,7 @@
 
 ## 微信 6.3.5 下载地址
 
-1. [下载微信 6.3.5 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin635android640.apk)
+1. [下载微信 6.3.5 Android APK（官方链接，包标识：640）](https://dldir1.qq.com/weixin/android/weixin635android640.apk)
 
 ## 版本信息
 

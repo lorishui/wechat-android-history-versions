@@ -6,7 +6,7 @@ This page lists official APK download links for the WeChat 5.4 Android release. 
 
 ## Official download links
 
-1. [Download WeChat 5.4 Android APK (official link)](https://dldir1.qq.com/weixin/android/weixin540android480.apk)
+1. [Download WeChat 5.4 Android APK (official link, package ID: 480)](https://dldir1.qq.com/weixin/android/weixin540android480.apk)
 
 ## Version details
 

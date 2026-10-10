@@ -6,7 +6,7 @@
 
 ## 微信 8.0.21 下载地址
 
-1. [下载微信 8.0.21 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8021android2120.apk)
+1. [下载微信 8.0.21 Android APK（官方链接，包标识：2120）](https://dldir1.qq.com/weixin/android/weixin8021android2120.apk)
 
 ## 版本信息
 

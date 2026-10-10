@@ -6,7 +6,7 @@
 
 ## 微信 8.0.28 下载地址
 
-1. [下载微信 8.0.28 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8028android2240.apk)
+1. [下载微信 8.0.28 Android APK（官方链接，包标识：2240）](https://dldir1.qq.com/weixin/android/weixin8028android2240.apk)
 
 ## 版本信息
 

@@ -6,7 +6,7 @@
 
 ## 微信 7.0.21 下载地址
 
-1. [下载微信 7.0.21 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin7021android1800.apk)
+1. [下载微信 7.0.21 Android APK（官方链接，包标识：1800）](https://dldir1.qq.com/weixin/android/weixin7021android1800.apk)
 
 ## 版本信息
 

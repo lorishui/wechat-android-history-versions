@@ -14,6 +14,11 @@ function escapeMarkdownText(value) {
     return String(value).replace(/[\\`]/g, '\\$&');
 }
 
+function packageIdentifier(url) {
+    const fileName = path.basename(new URL(url).pathname, '.apk');
+    return escapeMarkdownText(fileName.replace(/^weixin\d+android/, ''));
+}
+
 function groupVersions(entries) {
     const groups = new Map();
     for (const entry of entries) {
@@ -28,7 +33,7 @@ function groupVersions(entries) {
 function buildVersionPage(version, entries) {
     const dates = [...new Set(entries.map(entry => entry.publish_date))].join('、');
     const downloads = entries.map((entry, index) =>
-        `${index + 1}. [下载微信 ${version} Android APK（官方链接）](${entry.url})`
+        `${index + 1}. [下载微信 ${version} Android APK（官方链接，包标识：${packageIdentifier(entry.url)}）](${entry.url})`
     ).join('\n');
 
     return `# 微信 ${escapeMarkdownText(version)} Android 历史版本下载\n\n` +
@@ -51,7 +56,7 @@ function buildVersionPage(version, entries) {
 function buildEnglishVersionPage(version, entries) {
     const dates = [...new Set(entries.map(entry => entry.publish_date))].join(', ');
     const downloads = entries.map((entry, index) =>
-        `${index + 1}. [Download WeChat ${version} Android APK (official link)](${entry.url})`
+        `${index + 1}. [Download WeChat ${version} Android APK (official link, package ID: ${packageIdentifier(entry.url)})](${entry.url})`
     ).join('\n');
 
     return `# WeChat ${escapeMarkdownText(version)} for Android: Historical Download\n\n` +
@@ -111,7 +116,7 @@ function buildEnglishReadme(groups) {
     const rows = groups.map(([version, entries]) => {
         const dates = [...new Set(entries.map(entry => entry.publish_date))].join(', ');
         const downloads = entries.map(entry =>
-            `| WeChat ${version} for Android | ${entry.publish_date} | [Official APK](${entry.url}) |`
+            `| WeChat ${version} for Android | ${entry.publish_date} | [Official APK (package ID: ${packageIdentifier(entry.url)})](${entry.url}) |`
         ).join('\n');
         return { dates, downloads, version };
     });

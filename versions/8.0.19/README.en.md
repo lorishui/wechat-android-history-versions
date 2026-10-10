@@ -6,7 +6,7 @@ This page lists official APK download links for the WeChat 8.0.19 Android releas
 
 ## Official download links
 
-1. [Download WeChat 8.0.19 Android APK (official link)](https://dldir1.qq.com/weixin/android/weixin8019android2080.apk)
+1. [Download WeChat 8.0.19 Android APK (official link, package ID: 2080)](https://dldir1.qq.com/weixin/android/weixin8019android2080.apk)
 
 ## Version details
 

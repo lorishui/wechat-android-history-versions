@@ -6,8 +6,8 @@
 
 ## 微信 8.0.76 下载地址
 
-1. [下载微信 8.0.76 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8076android3141_0x28004c31_arm64.apk)
-2. [下载微信 8.0.76 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8076android3140_0x28004c30_arm64.apk)
+1. [下载微信 8.0.76 Android APK（官方链接，包标识：3141_0x28004c31_arm64）](https://dldir1v6.qq.com/weixin/android/weixin8076android3141_0x28004c31_arm64.apk)
+2. [下载微信 8.0.76 Android APK（官方链接，包标识：3140_0x28004c30_arm64）](https://dldir1v6.qq.com/weixin/android/weixin8076android3140_0x28004c30_arm64.apk)
 
 ## 版本信息
 

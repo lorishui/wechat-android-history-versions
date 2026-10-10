@@ -6,7 +6,7 @@ This page lists official APK download links for the WeChat 7.0.4 Android release
 
 ## Official download links
 
-1. [Download WeChat 7.0.4 Android APK (official link)](https://dldir1.qq.com/weixin/android/weixin704android1420.apk)
+1. [Download WeChat 7.0.4 Android APK (official link, package ID: 1420)](https://dldir1.qq.com/weixin/android/weixin704android1420.apk)
 
 ## Version details
 

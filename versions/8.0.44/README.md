@@ -6,10 +6,10 @@
 
 ## 微信 8.0.44 下载地址
 
-1. [下载微信 8.0.44 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c3f_arm64.apk)
-2. [下载微信 8.0.44 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c36_arm64.apk)
-3. [下载微信 8.0.44 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8044android2501_0x28002c35_arm64.apk)
-4. [下载微信 8.0.44 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8044android2500_0x28002c34_arm64.apk)
+1. [下载微信 8.0.44 Android APK（官方链接，包标识：2502_0x28002c3f_arm64）](https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c3f_arm64.apk)
+2. [下载微信 8.0.44 Android APK（官方链接，包标识：2502_0x28002c36_arm64）](https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c36_arm64.apk)
+3. [下载微信 8.0.44 Android APK（官方链接，包标识：2501_0x28002c35_arm64）](https://dldir1.qq.com/weixin/android/weixin8044android2501_0x28002c35_arm64.apk)
+4. [下载微信 8.0.44 Android APK（官方链接，包标识：2500_0x28002c34_arm64）](https://dldir1.qq.com/weixin/android/weixin8044android2500_0x28002c34_arm64.apk)
 
 ## 版本信息
 

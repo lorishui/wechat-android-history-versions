@@ -6,7 +6,7 @@ This page lists official APK download links for the WeChat 6.3.13 Android releas
 
 ## Official download links
 
-1. [Download WeChat 6.3.13 Android APK (official link)](https://dldir1.qq.com/weixin/android/weixin6313android740.apk)
+1. [Download WeChat 6.3.13 Android APK (official link, package ID: 740)](https://dldir1.qq.com/weixin/android/weixin6313android740.apk)
 
 ## Version details
 

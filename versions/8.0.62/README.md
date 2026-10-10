@@ -6,7 +6,7 @@
 
 ## 微信 8.0.62 下载地址
 
-1. [下载微信 8.0.62 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8062android2900_0x28003e39_arm64.apk)
+1. [下载微信 8.0.62 Android APK（官方链接，包标识：2900_0x28003e39_arm64）](https://dldir1v6.qq.com/weixin/android/weixin8062android2900_0x28003e39_arm64.apk)
 
 ## 版本信息
 

@@ -6,8 +6,8 @@
 
 ## 微信 8.0.70 下载地址
 
-1. [下载微信 8.0.70 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8070android3060_0x28004634_arm64_1.apk)
-2. [下载微信 8.0.70 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8070android3060_0x28004633_arm64.apk)
+1. [下载微信 8.0.70 Android APK（官方链接，包标识：3060_0x28004634_arm64_1）](https://dldir1v6.qq.com/weixin/android/weixin8070android3060_0x28004634_arm64_1.apk)
+2. [下载微信 8.0.70 Android APK（官方链接，包标识：3060_0x28004633_arm64）](https://dldir1v6.qq.com/weixin/android/weixin8070android3060_0x28004633_arm64.apk)
 
 ## 版本信息
 

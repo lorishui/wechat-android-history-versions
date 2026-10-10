@@ -6,7 +6,7 @@ This page lists official APK download links for the WeChat 6.5.6 Android release
 
 ## Official download links
 
-1. [Download WeChat 6.5.6 Android APK (official link)](https://dldir1.qq.com/weixin/android/weixin656android1020.apk)
+1. [Download WeChat 6.5.6 Android APK (official link, package ID: 1020)](https://dldir1.qq.com/weixin/android/weixin656android1020.apk)
 
 ## Version details
 

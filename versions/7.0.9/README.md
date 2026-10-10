@@ -6,7 +6,7 @@
 
 ## 微信 7.0.9 下载地址
 
-1. [下载微信 7.0.9 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin709android1560.apk)
+1. [下载微信 7.0.9 Android APK（官方链接，包标识：1560）](https://dldir1.qq.com/weixin/android/weixin709android1560.apk)
 
 ## 版本信息
 

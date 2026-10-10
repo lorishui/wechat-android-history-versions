@@ -6,7 +6,7 @@
 
 ## 微信 7.0.0 下载地址
 
-1. [下载微信 7.0.0 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin700android1380.apk)
+1. [下载微信 7.0.0 Android APK（官方链接，包标识：1380）](https://dldir1.qq.com/weixin/android/weixin700android1380.apk)
 
 ## 版本信息
 

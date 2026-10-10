@@ -6,9 +6,9 @@
 
 ## 微信 8.0.51 下载地址
 
-1. [下载微信 8.0.51 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003334_arm64.apk)
-2. [下载微信 8.0.51 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003333_arm64_1.apk)
-3. [下载微信 8.0.51 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003332_arm64.apk)
+1. [下载微信 8.0.51 Android APK（官方链接，包标识：2720_0x28003334_arm64）](https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003334_arm64.apk)
+2. [下载微信 8.0.51 Android APK（官方链接，包标识：2720_0x28003333_arm64_1）](https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003333_arm64_1.apk)
+3. [下载微信 8.0.51 Android APK（官方链接，包标识：2720_0x28003332_arm64）](https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003332_arm64.apk)
 
 ## 版本信息
 

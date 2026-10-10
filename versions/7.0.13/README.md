@@ -6,7 +6,7 @@
 
 ## 微信 7.0.13 下载地址
 
-1. [下载微信 7.0.13 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin7013android1640.apk)
+1. [下载微信 7.0.13 Android APK（官方链接，包标识：1640）](https://dldir1.qq.com/weixin/android/weixin7013android1640.apk)
 
 ## 版本信息
 

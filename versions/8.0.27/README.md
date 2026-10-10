@@ -6,7 +6,7 @@
 
 ## 微信 8.0.27 下载地址
 
-1. [下载微信 8.0.27 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin8027android2220.apk)
+1. [下载微信 8.0.27 Android APK（官方链接，包标识：2220）](https://dldir1.qq.com/weixin/android/weixin8027android2220.apk)
 
 ## 版本信息
 

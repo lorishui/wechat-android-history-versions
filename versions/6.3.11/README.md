@@ -6,7 +6,7 @@
 
 ## 微信 6.3.11 下载地址
 
-1. [下载微信 6.3.11 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin6311android720.apk)
+1. [下载微信 6.3.11 Android APK（官方链接，包标识：720）](https://dldir1.qq.com/weixin/android/weixin6311android720.apk)
 
 ## 版本信息
 

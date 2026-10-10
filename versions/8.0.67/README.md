@@ -6,8 +6,8 @@
 
 ## 微信 8.0.67 下载地址
 
-1. [下载微信 8.0.67 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004333_arm64.apk)
-2. [下载微信 8.0.67 Android APK（官方链接）](https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004332_arm64.apk)
+1. [下载微信 8.0.67 Android APK（官方链接，包标识：3000_0x28004333_arm64）](https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004333_arm64.apk)
+2. [下载微信 8.0.67 Android APK（官方链接，包标识：3000_0x28004332_arm64）](https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004332_arm64.apk)
 
 ## 版本信息
 

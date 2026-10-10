@@ -6,7 +6,7 @@
 
 ## 微信 6.3.32 下载地址
 
-1. [下载微信 6.3.32 Android APK（官方链接）](https://dldir1.qq.com/weixin/android/weixin6332android960.apk)
+1. [下载微信 6.3.32 Android APK（官方链接，包标识：960）](https://dldir1.qq.com/weixin/android/weixin6332android960.apk)
 
 ## 版本信息
 
